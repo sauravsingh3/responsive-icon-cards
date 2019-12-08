@@ -27,3 +27,22 @@ html {
 .card {
   display: block;
 }
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  text-decoration: none;
+}
+
+.card-img img {
+  width: 50px;
+}
+
+.card-img {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
