@@ -105,3 +105,15 @@ ul li {
   }
 
 }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+  }
+
+  .card-img {
+    display: block;
+  }
+
+}
